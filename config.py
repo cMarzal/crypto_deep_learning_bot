@@ -1,0 +1,2 @@
+API_KEY = 'X'
+API_SECRET = 'X'
